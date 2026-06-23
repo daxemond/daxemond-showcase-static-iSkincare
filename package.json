@@ -1,0 +1,13 @@
+{
+  "name": "daxemond-showcase-iskincare",
+  "author": "Desmond Tam (desmondeds@hotmail.com)",
+  "version": "1.0.0",
+  "description": "A health care web",
+  "scripts": {
+    "start": "ws --spa index.html"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.12",
+    "tailwindcss": "^4.1.12"
+  }
+}
